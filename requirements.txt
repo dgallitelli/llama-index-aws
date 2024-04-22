@@ -1,0 +1,10 @@
+llama-index
+llama-index-llms-sagemaker-endpoint
+llama-index-embeddings-sagemaker-endpoint
+llama-index-llms-bedrock
+llama-index-embeddings-bedrock
+sagemaker
+boto3
+botocore
+faiss-cpu
+chromadb
